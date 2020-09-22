@@ -22,6 +22,16 @@ gem 'jbuilder', '~> 2.7'
 # Use Active Model has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 gem 'bulma-rails', '~> 0.9.0'
+gem 'simple_form', '~> 5.0', '>= 5.0.2'
+gem 'devise', '~> 4.7', '>= 4.7.3'
+gem 'gravatar_image_tag', '~> 1.2'
+gem 'jquery-rails', '~> 4.4'
+gem 'wysiwyg-rails', '~> 3.2', '>= 3.2.2'
+gem 'public_activity', '~> 1.6', '>= 1.6.4'
+gem 'better_errors', '~> 2.8', '>= 2.8.1'
+gem 'guard', '~> 2.16', '>= 2.16.2'
+gem 'guard-livereload', '~> 2.5', '>= 2.5.2'
+
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
